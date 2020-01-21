@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <spring.version>5.1.9.RELEASE</spring.version>
+        <spring.version>5.2.0.RELEASE</spring.version>
         <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
         <cargo-core-container-tomcat.version>1.7.0</cargo-core-container-tomcat.version>
         <maven-war-plugin.version>3.2.2</maven-war-plugin.version>
